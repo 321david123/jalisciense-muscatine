@@ -333,6 +333,7 @@ body.menu-open .overlay__nav a:nth-child(6) { animation-delay: 0.33s; }
   font-family: var(--font-display); font-weight: 700; font-size: clamp(2rem, 5vw, 3rem);
   color: var(--red); line-height: 1;
 }
+.stat__num--word { font-size: clamp(1.1rem, 2.4vw, 1.5rem); }
 .stat__label { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.16em; color: var(--ink-faint); margin-top: 0.55rem; }
 
 .story__media { position: relative; }
